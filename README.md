@@ -1,2 +1,1 @@
-# first_nodejs_app
-First NodeJS application
+# First NodeJS application
